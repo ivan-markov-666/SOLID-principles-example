@@ -2,7 +2,7 @@
 This repository contains one TypeScript class with an example of SOLID principles.
 
 # Precondition
-Make sure that you read TypeScript documentation located here: https://www.typescriptlang.org/docs/ .    
+Make sure that you read the TypeScript documentation located here: https://www.typescriptlang.org/docs/ .    
 TypeScript is using node.js, so it will be good to have a basic knowledge of it: https://nodejs.org/en/ .  
 For any questions, refer to the original documentation.
 
